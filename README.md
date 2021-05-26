@@ -1,2 +1,5 @@
 # DaVinci_Code
-code是手机端，server是服务端
+code是手机端源码，server是服务端源码
+apk是手机端安装包，resource里面的jar包是服务端jar包
+
+服务端需要mysql5.7的docker和redis-6的docker
